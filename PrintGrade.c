@@ -35,3 +35,9 @@ void main()
   }
   printf("Bye Bye\n"); 
 }
+
+void BMhackathon2023(){
+  printf("will be help us ?\n");
+  printf("welcome to BangMod Hackathon 2023\n");
+  printf("today - 19 jan 2023\n");
+}
