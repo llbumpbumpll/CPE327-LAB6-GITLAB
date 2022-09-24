@@ -44,5 +44,7 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-  printf("Goodbye\n");
+  printf("Goodbye GoodLuck\n");
+  printf("also BangMod Hackathon 2023 now to open in discord app.
+   do not forget to check in mailbox !.\n");
 }
